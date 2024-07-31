@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "drglm"]
 	path = drglm
-	url = https://github.com/cran/drglm
+	url = https://github.com/nayemmh/drglm
